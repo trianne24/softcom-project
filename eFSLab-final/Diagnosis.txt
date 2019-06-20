@@ -1,0 +1,629 @@
+Diagnosis File 
+ Amostra 2 Regra criada!! 2 
+ Amostra 2 FUSAO (new rule) FP, Regra 1, Fusoes 1, Variavel X2 
+ Amostra 2 FUSAO (new rule) FP, Regra 1, Fusoes 1, Variavel X5 
+ Amostra 2 Regras 2 
+ Amostra 3 Regra criada!! 3 
+ Amostra 3 FUSAO (new rule) FP, Regra 1, Fusoes 1, Variavel X2 
+ Amostra 3 FUSAO (new rule) FP, Regra 2, Fusoes 1, Variavel X3 
+ Amostra 3 FUSAO (new rule) FP, Regra 2, Fusoes 1, Variavel X4 
+ Amostra 3 FUSAO (new rule) FP, Regra 1, Fusoes 1, Variavel X5 
+ Amostra 3 FUSAO (new rule) FP, Regra 2, Fusoes 1, Variavel X8 
+ Amostra 3 Regras 3 
+ Amostra 4 Regras 3 
+ Amostra 5 Regra criada!! 4 
+ Amostra 5 FUSAO (new rule) FP, Regra 2, Fusoes 1, Variavel X1 
+ Amostra 5 FUSAO (new rule) FP, Regra 1, Fusoes 1, Variavel X2 
+ Amostra 5 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X3 
+ Amostra 5 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X3 
+ Amostra 5 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X4 
+ Amostra 5 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X4 
+ Amostra 5 FUSAO (new rule) FP, Regra 1, Fusoes 2, Variavel X5 
+ Amostra 5 FUSAO (new rule) FP, Regra 2, Fusoes 1, Variavel X5 
+ Amostra 5 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X6 
+ Amostra 5 FUSAO (new rule) FP, Regra 2, Fusoes 1, Variavel X7 
+ Amostra 5 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X8 
+ Amostra 5 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X8 
+ Amostra 5 Regras 4 
+ Amostra 6 Regras 4 
+ Amostra 7 Regras 4 
+ Amostra 8 Regra criada!! 5 
+ Amostra 8 FUSAO (new rule) FP, Regra 2, Fusoes 1, Variavel X1 
+ Amostra 8 FUSAO (new rule) FP, Regra 1, Fusoes 1, Variavel X2 
+ Amostra 8 FUSAO (new rule) FP, Regra 4, Fusoes 1, Variavel X2 
+ Amostra 8 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X3 
+ Amostra 8 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X3 
+ Amostra 8 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X4 
+ Amostra 8 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X4 
+ Amostra 8 FUSAO (new rule) FP, Regra 1, Fusoes 2, Variavel X5 
+ Amostra 8 FUSAO (new rule) FP, Regra 2, Fusoes 1, Variavel X5 
+ Amostra 8 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X5 
+ Amostra 8 FUSAO (new rule) FP, Regra 3, Fusoes 2, Variavel X6 
+ Amostra 8 FUSAO (new rule) FP, Regra 4, Fusoes 1, Variavel X6 
+ Amostra 8 FUSAO (new rule) FP, Regra 2, Fusoes 1, Variavel X7 
+ Amostra 8 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X7 
+ Amostra 8 FUSAO (new rule) FP, Regra 1, Fusoes 1, Variavel X8 
+ Amostra 8 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X8 
+ Amostra 8 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X8 
+ Amostra 8 Regras 5 
+ Amostra 9 Regras 5 
+ Amostra 10 Regras 5 
+ Amostra 11 Regras 5 
+ Amostra 12 Regras 5 
+ Amostra 13 Regras 5 
+ Amostra 14 Regras 5 
+ Amostra 15 Regras 5 
+ Amostra 16 Regras 5 
+ Amostra 17 Regras 5 
+ Amostra 18 Regras 5 
+ Amostra 19 Regras 5 
+ Amostra 20 Regras 5 
+ Amostra 21 Regras 5 
+ Amostra 22 Regras 5 
+ Amostra 23 Regras 5 
+ Amostra 24 Regras 5 
+ Amostra 25 Regras 5 
+ Amostra 26 Regras 5 
+ Amostra 27 Regras 5 
+ Amostra 28 Regras 5 
+ Amostra 29 Regra criada!! 6 
+ Amostra 29 FUSAO (new rule) FP, Regra 2, Fusoes 1, Variavel X1 
+ Amostra 29 FUSAO (new rule) FP, Regra 5, Fusoes 1, Variavel X1 
+ Amostra 29 FUSAO (new rule) FP, Regra 1, Fusoes 1, Variavel X2 
+ Amostra 29 FUSAO (new rule) FP, Regra 4, Fusoes 1, Variavel X2 
+ Amostra 29 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X3 
+ Amostra 29 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X3 
+ Amostra 29 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X4 
+ Amostra 29 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X4 
+ Amostra 29 FUSAO (new rule) FP, Regra 5, Fusoes 1, Variavel X4 
+ Amostra 29 FUSAO (new rule) FP, Regra 1, Fusoes 2, Variavel X5 
+ Amostra 29 FUSAO (new rule) FP, Regra 2, Fusoes 1, Variavel X5 
+ Amostra 29 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X5 
+ Amostra 29 FUSAO (new rule) FP, Regra 3, Fusoes 3, Variavel X6 
+ Amostra 29 FUSAO (new rule) FP, Regra 4, Fusoes 2, Variavel X6 
+ Amostra 29 FUSAO (new rule) FP, Regra 5, Fusoes 1, Variavel X6 
+ Amostra 29 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X7 
+ Amostra 29 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X7 
+ Amostra 29 FUSAO (new rule) FP, Regra 4, Fusoes 1, Variavel X7 
+ Amostra 29 FUSAO (new rule) FP, Regra 1, Fusoes 1, Variavel X8 
+ Amostra 29 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X8 
+ Amostra 29 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X8 
+ Amostra 29 Regras 6 
+ Amostra 30 Regras 6 
+ Amostra 31 Regras 6 
+ Amostra 32 Regras 6 
+ Amostra 33 Regras 6 
+ Amostra 34 Regras 6 
+ Amostra 35 Regras 6 
+ Amostra 36 Regras 6 
+ Amostra 37 Regras 6 
+ Amostra 38 Regras 6 
+ Amostra 39 Regras 6 
+ Amostra 40 Regras 6 
+ Amostra 41 Regras 6 
+ Amostra 42 Regras 6 
+ Amostra 43 Regras 6 
+ Amostra 44 Regras 6 
+ Amostra 45 Regras 6 
+ Amostra 46 Regras 6 
+ Amostra 47 Regras 6 
+ Amostra 48 Regras 6 
+ Amostra 49 Regras 6 
+ Amostra 50 Regras 6 
+ Amostra 51 Regras 6 
+ Amostra 52 Regras 6 
+ Amostra 53 Regras 6 
+ Amostra 54 Regras 6 
+ Amostra 55 Regras 6 
+ Amostra 56 Regras 6 
+ Amostra 57 Regras 6 
+ Amostra 58 Regra criada!! 7 
+ Amostra 58 FUSAO (new rule) FP, Regra 2, Fusoes 1, Variavel X1 
+ Amostra 58 FUSAO (new rule) FP, Regra 5, Fusoes 1, Variavel X1 
+ Amostra 58 FUSAO (new rule) FP, Regra 1, Fusoes 1, Variavel X2 
+ Amostra 58 FUSAO (new rule) FP, Regra 4, Fusoes 2, Variavel X2 
+ Amostra 58 FUSAO (new rule) FP, Regra 5, Fusoes 1, Variavel X2 
+ Amostra 58 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X3 
+ Amostra 58 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X3 
+ Amostra 58 FUSAO (new rule) FP, Regra 5, Fusoes 1, Variavel X3 
+ Amostra 58 FUSAO (new rule) FP, Regra 6, Fusoes 1, Variavel X3 
+ Amostra 58 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X4 
+ Amostra 58 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X4 
+ Amostra 58 FUSAO (new rule) FP, Regra 5, Fusoes 2, Variavel X4 
+ Amostra 58 FUSAO (new rule) FP, Regra 6, Fusoes 1, Variavel X4 
+ Amostra 58 FUSAO (new rule) FP, Regra 1, Fusoes 2, Variavel X5 
+ Amostra 58 FUSAO (new rule) FP, Regra 2, Fusoes 1, Variavel X5 
+ Amostra 58 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X5 
+ Amostra 58 FUSAO (new rule) FP, Regra 6, Fusoes 1, Variavel X5 
+ Amostra 58 FUSAO (new rule) FP, Regra 3, Fusoes 4, Variavel X6 
+ Amostra 58 FUSAO (new rule) FP, Regra 4, Fusoes 3, Variavel X6 
+ Amostra 58 FUSAO (new rule) FP, Regra 5, Fusoes 2, Variavel X6 
+ Amostra 58 FUSAO (new rule) FP, Regra 6, Fusoes 1, Variavel X6 
+ Amostra 58 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X7 
+ Amostra 58 FUSAO (new rule) FP, Regra 3, Fusoes 2, Variavel X7 
+ Amostra 58 FUSAO (new rule) FP, Regra 4, Fusoes 1, Variavel X7 
+ Amostra 58 FUSAO (new rule) FP, Regra 5, Fusoes 1, Variavel X7 
+ Amostra 58 FUSAO (new rule) FP, Regra 1, Fusoes 1, Variavel X8 
+ Amostra 58 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X8 
+ Amostra 58 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X8 
+ Amostra 58 FUSAO (new rule) FP, Regra 6, Fusoes 1, Variavel X8 
+ Amostra 58 Regras 7 
+ Amostra 59 Regras 7 
+ Amostra 60 Regras 7 
+ Amostra 61 Regras 7 
+ Amostra 62 Regras 7 
+ Amostra 63 Regras 7 
+ Amostra 64 Regras 7 
+ Amostra 65 Regras 7 
+ Amostra 66 Regras 7 
+ Amostra 67 Regras 7 
+ Amostra 68 Regras 7 
+ Amostra 69 Regras 7 
+ Amostra 70 Regras 7 
+ Amostra 71 Regras 7 
+ Amostra 72 Regra criada!! 8 
+ Amostra 72 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X1 
+ Amostra 72 FUSAO (new rule) FP, Regra 4, Fusoes 1, Variavel X1 
+ Amostra 72 FUSAO (new rule) FP, Regra 5, Fusoes 1, Variavel X1 
+ Amostra 72 FUSAO (new rule) FP, Regra 1, Fusoes 1, Variavel X2 
+ Amostra 72 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X2 
+ Amostra 72 FUSAO (new rule) FP, Regra 4, Fusoes 2, Variavel X2 
+ Amostra 72 FUSAO (new rule) FP, Regra 5, Fusoes 1, Variavel X2 
+ Amostra 72 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X3 
+ Amostra 72 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X3 
+ Amostra 72 FUSAO (new rule) FP, Regra 5, Fusoes 2, Variavel X3 
+ Amostra 72 FUSAO (new rule) FP, Regra 6, Fusoes 1, Variavel X3 
+ Amostra 72 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X4 
+ Amostra 72 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X4 
+ Amostra 72 FUSAO (new rule) FP, Regra 5, Fusoes 2, Variavel X4 
+ Amostra 72 FUSAO (new rule) FP, Regra 6, Fusoes 1, Variavel X4 
+ Amostra 72 FUSAO (new rule) FP, Regra 1, Fusoes 2, Variavel X5 
+ Amostra 72 FUSAO (new rule) FP, Regra 2, Fusoes 1, Variavel X5 
+ Amostra 72 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X5 
+ Amostra 72 FUSAO (new rule) FP, Regra 6, Fusoes 1, Variavel X5 
+ Amostra 72 FUSAO (new rule) FP, Regra 3, Fusoes 5, Variavel X6 
+ Amostra 72 FUSAO (new rule) FP, Regra 4, Fusoes 4, Variavel X6 
+ Amostra 72 FUSAO (new rule) FP, Regra 5, Fusoes 3, Variavel X6 
+ Amostra 72 FUSAO (new rule) FP, Regra 6, Fusoes 2, Variavel X6 
+ Amostra 72 FUSAO (new rule) FP, Regra 7, Fusoes 1, Variavel X6 
+ Amostra 72 FUSAO (new rule) FP, Regra 2, Fusoes 3, Variavel X7 
+ Amostra 72 FUSAO (new rule) FP, Regra 3, Fusoes 2, Variavel X7 
+ Amostra 72 FUSAO (new rule) FP, Regra 4, Fusoes 2, Variavel X7 
+ Amostra 72 FUSAO (new rule) FP, Regra 5, Fusoes 1, Variavel X7 
+ Amostra 72 FUSAO (new rule) FP, Regra 6, Fusoes 1, Variavel X7 
+ Amostra 72 FUSAO (new rule) FP, Regra 1, Fusoes 1, Variavel X8 
+ Amostra 72 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X8 
+ Amostra 72 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X8 
+ Amostra 72 FUSAO (new rule) FP, Regra 6, Fusoes 1, Variavel X8 
+ Amostra 72 Regras 8 
+ Amostra 73 Regras 8 
+ Amostra 74 Regras 8 
+ Amostra 75 Regras 8 
+ Amostra 76 Regras 8 
+ Amostra 77 Regras 8 
+ Amostra 78 Regras 8 
+ Amostra 79 Regras 8 
+ Amostra 80 Regras 8 
+ Amostra 81 Regras 8 
+ Amostra 82 Regras 8 
+ Amostra 83 Regra criada!! 9 
+ Amostra 83 FUSAO (new rule) FP, Regra 2, Fusoes 3, Variavel X1 
+ Amostra 83 FUSAO (new rule) FP, Regra 4, Fusoes 2, Variavel X1 
+ Amostra 83 FUSAO (new rule) FP, Regra 5, Fusoes 1, Variavel X1 
+ Amostra 83 FUSAO (new rule) FP, Regra 8, Fusoes 1, Variavel X1 
+ Amostra 83 FUSAO (new rule) FP, Regra 1, Fusoes 1, Variavel X2 
+ Amostra 83 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X2 
+ Amostra 83 FUSAO (new rule) FP, Regra 4, Fusoes 2, Variavel X2 
+ Amostra 83 FUSAO (new rule) FP, Regra 5, Fusoes 1, Variavel X2 
+ Amostra 83 FUSAO (new rule) FP, Regra 6, Fusoes 1, Variavel X2 
+ Amostra 83 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X3 
+ Amostra 83 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X3 
+ Amostra 83 FUSAO (new rule) FP, Regra 5, Fusoes 2, Variavel X3 
+ Amostra 83 FUSAO (new rule) FP, Regra 6, Fusoes 1, Variavel X3 
+ Amostra 83 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X4 
+ Amostra 83 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X4 
+ Amostra 83 FUSAO (new rule) FP, Regra 5, Fusoes 2, Variavel X4 
+ Amostra 83 FUSAO (new rule) FP, Regra 6, Fusoes 1, Variavel X4 
+ Amostra 83 FUSAO (new rule) FP, Regra 1, Fusoes 2, Variavel X5 
+ Amostra 83 FUSAO (new rule) FP, Regra 2, Fusoes 1, Variavel X5 
+ Amostra 83 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X5 
+ Amostra 83 FUSAO (new rule) FP, Regra 6, Fusoes 2, Variavel X5 
+ Amostra 83 FUSAO (new rule) FP, Regra 7, Fusoes 1, Variavel X5 
+ Amostra 83 FUSAO (new rule) FP, Regra 1, Fusoes 1, Variavel X6 
+ Amostra 83 FUSAO (new rule) FP, Regra 3, Fusoes 5, Variavel X6 
+ Amostra 83 FUSAO (new rule) FP, Regra 4, Fusoes 4, Variavel X6 
+ Amostra 83 FUSAO (new rule) FP, Regra 5, Fusoes 3, Variavel X6 
+ Amostra 83 FUSAO (new rule) FP, Regra 6, Fusoes 2, Variavel X6 
+ Amostra 83 FUSAO (new rule) FP, Regra 7, Fusoes 1, Variavel X6 
+ Amostra 83 FUSAO (new rule) FP, Regra 2, Fusoes 4, Variavel X7 
+ Amostra 83 FUSAO (new rule) FP, Regra 3, Fusoes 2, Variavel X7 
+ Amostra 83 FUSAO (new rule) FP, Regra 4, Fusoes 3, Variavel X7 
+ Amostra 83 FUSAO (new rule) FP, Regra 5, Fusoes 1, Variavel X7 
+ Amostra 83 FUSAO (new rule) FP, Regra 6, Fusoes 2, Variavel X7 
+ Amostra 83 FUSAO (new rule) FP, Regra 8, Fusoes 1, Variavel X7 
+ Amostra 83 FUSAO (new rule) FP, Regra 1, Fusoes 1, Variavel X8 
+ Amostra 83 FUSAO (new rule) FP, Regra 2, Fusoes 2, Variavel X8 
+ Amostra 83 FUSAO (new rule) FP, Regra 3, Fusoes 1, Variavel X8 
+ Amostra 83 FUSAO (new rule) FP, Regra 6, Fusoes 2, Variavel X8 
+ Amostra 83 FUSAO (new rule) FP, Regra 7, Fusoes 1, Variavel X8 
+ Amostra 83 Regras 9 
+ Amostra 84 Regras 9 
+ Amostra 85 Regras 9 
+ Amostra 86 Regras 9 
+ Amostra 87 Regras 9 
+ Amostra 88 Regras 9 
+ Amostra 89 Regras 9 
+ Amostra 90 Regras 9 
+ Amostra 91 Regras 9 
+ Amostra 92 Regras 9 
+ Amostra 93 Regras 9 
+ Amostra 94 Regras 9 
+ Amostra 95 Regras 9 
+ Amostra 96 Regras 9 
+ Amostra 97 Regras 9 
+ Amostra 98 Regras 9 
+ Amostra 99 Regras 9 
+ Amostra 100 Regras 9 
+
+ LEARNING PROCESS
+
+ Verification of condition Potential(k)<Potential_Min(k): 2 
+
+ Verification of condition Potential(k)>Potential_Ref(k): 6 
+
+ Number of rules created: 9
+Number of rules replaced: 0 
+
+ Samples that originate new rules: 1  2  3  5  8  29  58  72  83  
+
+ Rules created with Potential(k)<Potential_Min(k): 2 
+
+ Rules created with Potential(k)>Potential_Ref(k): 6 
+
+ Samples that originate the replacement of rules:   
+
+ Samples that originate the elimination of rules:   
+
+ Membership Function Simplification
+
+ Number of modified rules that originate mf fusion: 0 
+
+ Number of created rules that originate mf fusion: 158 
+
+ Variance Accounted For (VAF): -62.503 
+
+ Performance Measures for Training:MSE = 0.27118 RMSE = 0.52075 NDEI = 1.1008 
+
+ Performance Measures for Validation:MSE = 0.43254 RMSE = 0.65768 NDEI = 1.2933 
+
+ Centers 
+
+ 8.750000e-01 
+
+ 1.562500e-02 
+
+ 7.500000e-01 
+
+ 1.562500e-02 
+
+ 3.750000e-01 
+
+ 3.750000e-01 
+
+ 5.000000e-01 
+
+ 1.562500e-02 
+
+ 1.562500e-02 
+
+ 9.375000e-02 
+
+ 9.375000e-02 
+
+ 9.687500e-01 
+
+ 5.000000e-01 
+
+ 5.000000e-01 
+
+ 2.500000e-01 
+
+ 5.000000e-01 
+
+ 9.687500e-01 
+
+ 2.500000e-01 
+
+ 8.250000e-01 
+
+ 6.722222e-01 
+
+ 6.722222e-01 
+
+ 6.722222e-01 
+
+ 3.666667e-01 
+
+ 3.666667e-01 
+
+ 3.666667e-01 
+
+ 5.833333e-02 
+
+ 1 
+
+ 4.486874e-01 
+
+ 6.404137e-01 
+
+ 6.404137e-01 
+
+ 6.404137e-01 
+
+ 2.706842e-01 
+
+ 2.706842e-01 
+
+ 2.706842e-01 
+
+ 2.505967e-02 
+
+ 1 
+
+ 9.908676e-01 
+
+ 9.908676e-01 
+
+ 7.123288e-01 
+
+ 9.908676e-01 
+
+ 7.123288e-01 
+
+ 5.388128e-01 
+
+ 5.388128e-01 
+
+ 3.835616e-01 
+
+ 5.388128e-01 
+
+ 7.638436e-01 
+
+ 1.335505e-01 
+
+ 3.745928e-01 
+
+ 3.745928e-01 
+
+ 3.745928e-01 
+
+ 3.745928e-01 
+
+ 3.745928e-01 
+
+ 3.745928e-01 
+
+ 7.638436e-01 
+
+ 6.331361e-01 
+
+ 2.994083e-01 
+
+ 4.437870e-01 
+
+ 2.994083e-01 
+
+ 4.437870e-01 
+
+ 2.994083e-01 
+
+ 4.437870e-01 
+
+ 2.994083e-01 
+
+ 2.994083e-01 
+
+ 5.454545e-01 
+
+ 1.287879e-01 
+
+ 1.287879e-01 
+
+ 1.287879e-01 
+
+ 5.454545e-01 
+
+ 3.181818e-01 
+
+ 3.181818e-01 
+
+ 8.409091e-01 
+
+ 3.181818e-01 
+
+
+
+ Sigmas 
+
+ 1.060660e-01 
+
+ 1.060660e-01 
+
+ 1.060660e-01 
+
+ 1.060660e-01 
+
+ 1.060660e-01 
+
+ 1.060660e-01 
+
+ 1.060660e-01 
+
+ 1.060660e-01 
+
+
+
+ Consequents 
+
+ 3.582437e-01 
+
+ 1.212028e+00 
+
+ 1.826038e+00 
+
+ 7.214920e-01 
+
+ -4.797603e-02 
+
+ -2.905839e-01 
+
+ -1.034318e+00 
+
+ -1.596611e-02 
+
+ 2.456998e-01 
+
+ 2.407888e-01 
+
+ 3.774286e-01 
+
+ -5.240639e-01 
+
+ 2.637903e-02 
+
+ 3.681382e-01 
+
+ -1.660601e-01 
+
+ 3.838724e-01 
+
+ 2.729284e-02 
+
+ 1.655161e-02 
+
+ 2.280539e-02 
+
+ 3.494364e-01 
+
+ -1.033473e+00 
+
+ -7.764565e-02 
+
+ 6.680480e-01 
+
+ -2.630015e-02 
+
+ 5.054524e-01 
+
+ -1.369793e-02 
+
+ 6.238125e-02 
+
+ 1.817639e-02 
+
+ -1.512464e-01 
+
+ 1.521103e+00 
+
+ 2.264604e-01 
+
+ 2.702016e+00 
+
+ 2.961480e+00 
+
+ 2.017507e+00 
+
+ 3.529705e-02 
+
+ 2.456998e-01 
+
+ -1.008810e-02 
+
+ -4.260134e-01 
+
+ -1.595744e+00 
+
+ 1.984655e-01 
+
+ -2.748168e+00 
+
+ -1.396963e+00 
+
+ 5.983200e-02 
+
+ 3.702015e-02 
+
+ 2.456998e-01 
+
+ 2.394114e-02 
+
+ -1.193790e+00 
+
+ -2.239292e-01 
+
+ -2.925262e-02 
+
+ 8.600580e-01 
+
+ 3.992505e-01 
+
+ 2.945396e-01 
+
+ 1.686357e-02 
+
+ 1.218133e-01 
+
+ 1.906633e-01 
+
+ 9.367724e-01 
+
+ 2.241354e+00 
+
+ -1.460239e-02 
+
+ 2.049131e+00 
+
+ 4.097284e-01 
+
+ 7.565375e-01 
+
+ 2.446305e-02 
+
+ 1.835984e-01 
+
+ 1.156625e-01 
+
+ 5.613460e-01 
+
+ 4.944413e-01 
+
+ 1.431431e-01 
+
+ -1.392777e+00 
+
+ 4.013090e-01 
+
+ 9.968361e-02 
+
+ 2.716266e-02 
+
+ 7.069748e-02 
+
+ 3.178352e-01 
+
+ 5.838004e-01 
+
+ -2.830871e+00 
+
+ 1.920910e-01 
+
+ -1.507280e+00 
+
+ -3.216759e-01 
+
+ 6.162740e-02 
+
+ 1.662208e-03 
+
+ 8.460169e-02 

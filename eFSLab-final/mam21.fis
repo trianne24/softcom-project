@@ -1,0 +1,149 @@
+[System]
+Name='mam21'
+Type='mamdani'
+Version=2.0
+NumInputs=8
+NumOutputs=1
+NumRules=9
+AndMethod='prod'
+OrMethod='probor'
+ImpMethod='prod'
+AggMethod='max'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='in1'
+Range=[9 25]
+NumMFs=9
+MF1='in1mf1':'gaussmf',[1.697 23]
+MF2='in1mf2':'gaussmf',[1.697 9.25]
+MF3='in1mf3':'gaussmf',[1.697 21]
+MF4='in1mf4':'gaussmf',[1.697 9.25]
+MF5='in1mf5':'gaussmf',[1.697 15]
+MF6='in1mf6':'gaussmf',[1.697 15]
+MF7='in1mf7':'gaussmf',[1.697 17]
+MF8='in1mf8':'gaussmf',[1.697 9.25]
+MF9='in1mf9':'gaussmf',[1.697 9.25]
+
+[Input2]
+Name='in2'
+Range=[11 27]
+NumMFs=9
+MF1='in2mf1':'gaussmf',[1.697 12.5]
+MF2='in2mf2':'gaussmf',[1.697 12.5]
+MF3='in2mf3':'gaussmf',[1.697 26.5]
+MF4='in2mf4':'gaussmf',[1.697 19]
+MF5='in2mf5':'gaussmf',[1.697 19]
+MF6='in2mf6':'gaussmf',[1.697 15]
+MF7='in2mf7':'gaussmf',[1.697 19]
+MF8='in2mf8':'gaussmf',[1.697 26.5]
+MF9='in2mf9':'gaussmf',[1.697 15]
+
+[Input3]
+Name='in3'
+Range=[52 172]
+NumMFs=9
+MF1='in3mf1':'gaussmf',[12.73 151]
+MF2='in3mf2':'gaussmf',[12.73 132.7]
+MF3='in3mf3':'gaussmf',[12.73 132.7]
+MF4='in3mf4':'gaussmf',[12.73 132.7]
+MF5='in3mf5':'gaussmf',[12.73 96]
+MF6='in3mf6':'gaussmf',[12.73 96]
+MF7='in3mf7':'gaussmf',[12.73 96]
+MF8='in3mf8':'gaussmf',[12.73 59]
+MF9='in3mf9':'gaussmf',[12.73 172]
+
+[Input4]
+Name='in4'
+Range=[202 1878]
+NumMFs=9
+MF1='in4mf1':'gaussmf',[177.8 954]
+MF2='in4mf2':'gaussmf',[177.8 1275]
+MF3='in4mf3':'gaussmf',[177.8 1275]
+MF4='in4mf4':'gaussmf',[177.8 1275]
+MF5='in4mf5':'gaussmf',[177.8 655.7]
+MF6='in4mf6':'gaussmf',[177.8 655.7]
+MF7='in4mf7':'gaussmf',[177.8 655.7]
+MF8='in4mf8':'gaussmf',[177.8 244]
+MF9='in4mf9':'gaussmf',[177.8 1878]
+
+[Input5]
+Name='in5'
+Range=[0.07 0.143]
+NumMFs=9
+MF1='in5mf1':'gaussmf',[0.007743 0.1423]
+MF2='in5mf2':'gaussmf',[0.007743 0.1423]
+MF3='in5mf3':'gaussmf',[0.007743 0.122]
+MF4='in5mf4':'gaussmf',[0.007743 0.1423]
+MF5='in5mf5':'gaussmf',[0.007743 0.122]
+MF6='in5mf6':'gaussmf',[0.007743 0.1093]
+MF7='in5mf7':'gaussmf',[0.007743 0.1093]
+MF8='in5mf8':'gaussmf',[0.007743 0.098]
+MF9='in5mf9':'gaussmf',[0.007743 0.1093]
+
+[Input6]
+Name='in6'
+Range=[0.038 0.345]
+NumMFs=9
+MF1='in6mf1':'gaussmf',[0.03256 0.2725]
+MF2='in6mf2':'gaussmf',[0.03256 0.079]
+MF3='in6mf3':'gaussmf',[0.03256 0.153]
+MF4='in6mf4':'gaussmf',[0.03256 0.153]
+MF5='in6mf5':'gaussmf',[0.03256 0.153]
+MF6='in6mf6':'gaussmf',[0.03256 0.153]
+MF7='in6mf7':'gaussmf',[0.03256 0.153]
+MF8='in6mf8':'gaussmf',[0.03256 0.153]
+MF9='in6mf9':'gaussmf',[0.03256 0.2725]
+
+[Input7]
+Name='in7'
+Range=[0.135 0.304]
+NumMFs=9
+MF1='in7mf1':'gaussmf',[0.01793 0.242]
+MF2='in7mf2':'gaussmf',[0.01793 0.1856]
+MF3='in7mf3':'gaussmf',[0.01793 0.21]
+MF4='in7mf4':'gaussmf',[0.01793 0.1856]
+MF5='in7mf5':'gaussmf',[0.01793 0.21]
+MF6='in7mf6':'gaussmf',[0.01793 0.1856]
+MF7='in7mf7':'gaussmf',[0.01793 0.21]
+MF8='in7mf8':'gaussmf',[0.01793 0.1856]
+MF9='in7mf9':'gaussmf',[0.01793 0.1856]
+
+[Input8]
+Name='in8'
+Range=[0.053 0.097]
+NumMFs=9
+MF1='in8mf1':'gaussmf',[0.004667 0.077]
+MF2='in8mf2':'gaussmf',[0.004667 0.05867]
+MF3='in8mf3':'gaussmf',[0.004667 0.05867]
+MF4='in8mf4':'gaussmf',[0.004667 0.05867]
+MF5='in8mf5':'gaussmf',[0.004667 0.077]
+MF6='in8mf6':'gaussmf',[0.004667 0.067]
+MF7='in8mf7':'gaussmf',[0.004667 0.067]
+MF8='in8mf8':'gaussmf',[0.004667 0.09]
+MF9='in8mf9':'gaussmf',[0.004667 0.067]
+
+[Output1]
+Name='out1'
+Range=[0 1]
+NumMFs=9
+MF1='out1mf1':'trimf',[0.108243723775194 0.358243723775194 0.608243723775194]
+MF2='out1mf2':'trimf',[0.962027519609877 1.21202751960988 1.46202751960988]
+MF3='out1mf3':'trimf',[1.57603777376147 1.82603777376147 2.07603777376147]
+MF4='out1mf4':'trimf',[0.471492025420917 0.721492025420917 0.971492025420917]
+MF5='out1mf5':'trimf',[-0.297976029258424 -0.0479760292584237 0.202023970741576]
+MF6='out1mf6':'trimf',[-0.540583899310304 -0.290583899310304 -0.0405838993103043]
+MF7='out1mf7':'trimf',[-1.28431825049224 -1.03431825049224 -0.784318250492235]
+MF8='out1mf8':'trimf',[-0.265966110981027 -0.0159661109810271 0.234033889018973]
+MF9='out1mf9':'trimf',[-0.00430016998538676 0.245699830014613 0.495699830014613]
+
+[Rules]
+1 1 1 1 1 1 1 1, 1 (1) : 1
+2 2 2 2 2 2 2 2, 2 (1) : 1
+3 3 3 3 3 3 3 3, 3 (1) : 1
+4 4 4 4 4 4 4 4, 4 (1) : 1
+5 5 5 5 5 5 5 5, 5 (1) : 1
+6 6 6 6 6 6 6 6, 6 (1) : 1
+7 7 7 7 7 7 7 7, 7 (1) : 1
+8 8 8 8 8 8 8 8, 8 (1) : 1
+9 9 9 9 9 9 9 9, 9 (1) : 1
